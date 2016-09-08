@@ -1,0 +1,4 @@
+# WEBDESIGNIRE
+
+* npm install
+* grunt
